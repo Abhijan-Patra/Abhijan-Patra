@@ -1,7 +1,12 @@
-<h1 align="center">Hi, I'm Abhijan 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3a18,100:00060e&height=200&section=header&text=Abhijan%20Patra&fontColor=fee801&fontSize=46&desc=engineering%20aspirant%20who%20learns%20by%20building&descSize=16&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
 <p align="center">
-  <strong>Engineering aspirant who learns by building.</strong><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=33FF77&center=true&vCenter=true&width=520&lines=Engineering+aspirant;I+learn+by+building+things;Always+trying+something+new;Making+life+a+little+easier" alt="typing" />
+</p>
+
+<p align="center">
   I like turning ideas into things that make everyday life a little easier (and a lot more fun).
 </p>
 
@@ -48,6 +53,13 @@
 
 ---
 
+### ☕ When I'm not coding
+
+<!-- Make this yours: swap in your actual hobbies/interests -->
+You'll probably find me gaming, tinkering with some new app or gadget, or going down a YouTube rabbit hole learning something completely random. I'm always up for a good idea, a side project, or a problem worth solving.
+
+---
+
 ### 🔗 Let's connect
 
 <p align="center">
@@ -57,4 +69,6 @@
   <a href="mailto:abhijanpatra32156@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><sub>Always building something. Come say hi. 🚀</sub></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00060e,100:0a3a18&height=120&section=footer" alt="footer" />
+</p>
