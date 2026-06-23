@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3a18,100:00060e&height=210&section=header&text=Abhijan%20Patra&fontColor=fee801&fontSize=44&fontAlignY=38&desc=engineering%20aspirant%20who%20learns%20by%20building&descSize=17&descAlignY=62&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3a18,100:00060e&height=210&section=header&text=Abhijan%20Patra&fontColor=fee801&fontSize=44&fontAlignY=38&desc=building%20things%20that%20are%20actually%20useful&descSize=17&descAlignY=62&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
