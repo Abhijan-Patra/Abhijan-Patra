@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Abhijan 👋</h1>
 
 <p align="center">
-  <strong>Security tinkerer · web developer · I build things that make people think.</strong>
+  <strong>Engineering aspirant who learns by building.</strong><br/>
+  I like turning ideas into things that make everyday life a little easier (and a lot more fun).
 </p>
 
 <p align="center">
@@ -10,43 +11,44 @@
 
 ---
 
-### 🧠 About me
+### 🧠 A bit about me
 
-- 🛡️ I build **CTFs and security challenges** — currently running **Operation Rick-Shield**, a 10-stage cyber-heist CTF.
-- 🌐 I work across the stack: **Python** (zero-dependency serverless), **JavaScript**, and a lot of **Three.js / WebGL** for things that look as good as they play.
-- 🧩 I like puzzles, side-channels, and making security concepts *playable* instead of dry.
-- 🌱 Always learning — currently going deeper on web exploitation, cryptography, and reverse engineering.
-- 📫 Reach me: **abhijanpatra32156@gmail.com**
+- 🎓 An engineering student, perpetually curious — I learn best by making things, breaking them, and rebuilding them better.
+- 💡 I like building small tools and projects that solve a real annoyance or just make something more enjoyable to use.
+- 🧰 Full-stack tinkerer — mostly **Python** and **JavaScript**, plus whatever a project happens to need.
+- 🧪 I treat new tech like a sandbox: pick something I don't know, build with it, see what sticks.
+- 🌱 Right now I'm going deeper into web development and automation, and always looking for the next thing to take apart.
+- 📫 Say hi: **abhijanpatra32156@gmail.com**
 
 ---
 
-### 🚩 Featured: Operation Rick-Shield
+### 🎮 Something I built recently
 
-> A story-driven, browser-based CTF — breach 10 encrypted nodes, recover the master key, and outsmart an AI "Warden" guarding the final gate. Solo or team play, live scoreboard, 3D network map.
+> **Operation Rick-Shield** — a story-driven puzzle game you play right in your browser. Work your way through a network of challenges on a 3D map, climb a live scoreboard with your team, and outsmart the gatekeeper waiting at the end. Built solo, front to back.
 
 <p align="center">
-  <a href="https://rickshield-ctf.vercel.app"><img src="https://img.shields.io/badge/PLAY_NOW-rickshield--ctf.vercel.app-33ff77?style=for-the-badge&labelColor=00060e" alt="Play now" /></a>
+  <a href="https://rickshield-ctf.vercel.app"><img src="https://img.shields.io/badge/TRY_IT-rickshield--ctf.vercel.app-33ff77?style=for-the-badge&labelColor=00060e" alt="Try it" /></a>
   &nbsp;
-  <a href="https://github.com/Abhijan-Patra/RickShield-CaptureTheFlag"><img src="https://img.shields.io/badge/about_the_event-→-fee801?style=for-the-badge&labelColor=00060e" alt="About" /></a>
+  <a href="https://github.com/Abhijan-Patra/RickShield-CaptureTheFlag"><img src="https://img.shields.io/badge/what_is_it-→-fee801?style=for-the-badge&labelColor=00060e" alt="What is it" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech I reach for
+### 🛠️ Tools I reach for
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub stats
+### 📊 What I've been up to
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhijan-Patra&show_icons=true&hide_border=true&count_private=true&bg_color=00060e&title_color=fee801&text_color=c9d1d9&icon_color=33ff77" alt="stats" />
@@ -59,13 +61,13 @@
 
 ---
 
-### 🔗 Connect
+### 🔗 Let's connect
 
 <p align="center">
-  <!-- Fill these in: replace the # with your real profile URLs, then delete this comment -->
+  <!-- Replace each # with your real profile URL, then delete this line -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:abhijanpatra32156@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><sub>⚡ The Syndicate won't purge itself.</sub></p>
+<p align="center"><sub>Always building something. Come say hi. 🚀</sub></p>
