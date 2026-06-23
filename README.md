@@ -48,19 +48,6 @@
 
 ---
 
-### 📊 What I've been up to
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhijan-Patra&show_icons=true&hide_border=true&count_private=true&bg_color=00060e&title_color=fee801&text_color=c9d1d9&icon_color=33ff77" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijan-Patra&layout=compact&hide_border=true&bg_color=00060e&title_color=fee801&text_color=c9d1d9" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijan-Patra&hide_border=true&background=00060e&stroke=33ff77&ring=fee801&fire=ff3a3a&currStreakLabel=fee801&sideLabels=c9d1d9&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-</p>
-
----
-
 ### 🔗 Let's connect
 
 <p align="center">
